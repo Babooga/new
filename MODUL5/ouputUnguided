@@ -1,0 +1,64 @@
+run:
+
+
+
+==DISPLAY DATA MOBIL MINIBUS==
+
+ plat mobil : M21 2211102208 MK
+
+ merk : TOYOTA
+
+ Tipe MiniBus : Wagon, digunakan sebagai kendaraan angkut/travel
+
+ Fasilitas Keamanan adalah smart lock
+
+ Fasilitas Kenyamanan adalah kursi sutra
+
+ Tenaga : 2000cc
+
+ kapasitas penumpang adalah 100 orang
+
+ kapasitas Bagasi adalah 200 KG
+
+ pajak dari kendaraan ini : 532.0 Rp
+
+
+
+==DISPLAY DATA MOBIL SEDAN==
+
+ plat mobil : B 3432STR MYI
+
+ merk : MITSUBISHI
+
+ pajak : Rp. 2150.0
+
+ Fasilitas Keamanan adalah kunci gembok
+
+ Fasilitas Kenyamanan adalah kursi lapis emas
+
+ Tenaga : 1500cc
+
+
+
+==DISPLAY DATA MOBIL BUS==
+
+ plat mobil : P 7471 VW
+
+ merk : GRAND MAX
+
+ pajak : Rp. 1700.0
+
+ kapasitas penumpang adalah 70 orang
+
+ kapasitas Bagasi adalah 200 KG
+
+
+
+==DISPLAY DATA MOBIL==
+
+ plat mobil  : R 554 JX
+
+ merk mobil  : AVANZA
+
+ pajak mobil : 1000000.0
+BUILD SUCCESSFUL (total time: 0 seconds)
